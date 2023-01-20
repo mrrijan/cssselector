@@ -1,0 +1,20 @@
+/*id selector */
+#red{
+    color : red;
+}
+
+/*class selector */
+.p2{
+    color : white;
+    background-color: black;
+
+}
+
+/*group selector */
+footer ,span {
+    color:aquamarine;
+}
+/*element selector */
+p{
+    border: 2px solid red ;
+}
